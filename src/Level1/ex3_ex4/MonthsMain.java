@@ -1,4 +1,4 @@
-package Level1.ex3;
+package Level1.ex3_ex4;
 
 import java.util.Arrays;
 import java.util.List;
@@ -9,6 +9,9 @@ public class MonthsMain {
                 "July", "August", "September", "October", "November", "December");
 
         System.out.println("=======Printing all moths with Lambdas=======");
+        months.forEach(month ->System.out.println(month));
+
+        System.out.println("=======Printing all months with Method Reference");
         months.forEach(System.out::println);
     }
 }
