@@ -1,4 +1,4 @@
-package Level1.ex6;
+package Level1.ex6_ex7;
 
 import java.util.Comparator;
 import java.util.List;

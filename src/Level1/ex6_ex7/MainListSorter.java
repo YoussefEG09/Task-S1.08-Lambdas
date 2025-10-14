@@ -1,6 +1,4 @@
-package Level1.ex6;
-
-import java.util.Collections;
+package Level1.ex6_ex7;
 
 public class MainListSorter {
     public static void main(String args[]) {
